@@ -1,0 +1,6 @@
+Service ID,Service Name,Duration,Price,Employee ID
+,,,,
+MAN101,Manicure,45 minutes,$45 ,EMPID01
+HAR201,Haircut,1 hour,$35 ,EMPID02
+PED301,Pedicure,1 hour,$80 ,EMPID03
+MAK401,Makeup,2 hours,$120 ,EMPID04

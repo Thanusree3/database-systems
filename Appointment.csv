@@ -1,0 +1,6 @@
+Appointment ID,Service ID,Appointment Date and Time,Duration,Status
+,,,,
+APT01,MAN101,"4/9/2024,10:00AM",45 minutes,Confirmed
+APT02,HAR201,"4/10/2024,12:00PM",1 hour,Confirmed
+APT03,PED301,"4/11/2024,2:00PM",1 hour,Confirmed
+APT04,MAK401,"4/12/2024,5:00PM",2 hours,Confirmed
